@@ -1,0 +1,12 @@
+{
+    "title": "Test Proposal #3",
+    "content": "This is a header\n###\n1. list item\n2. another list item\n3. one more\n\nThis is a link https://whybitcoincash.com and [this is too](https://whybitcoincash.com). **bold** and __bold__ and *italics*",
+    "strategy": "single-choice",
+    "options": [
+        "option 1",
+        "option 2",
+        "option 3"
+    ],
+    "snapshotBlock": "2729421",
+    "endBlock": "3668859"
+}
