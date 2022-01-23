@@ -1,11 +1,11 @@
 {
-    "title": "Test Proposal #1",
-    "content": "This is the content of the proposal",
+    "title": "Raise MIST/BCH farm allocation to a fixed rate of 30%",
+    "content": "This would modify the farm allocation algorithm to treat the MIST/BCH pair specially. This proposal if passed would set the emission rate for MIST/BCH to 30% of all rewards. This will apply to next farm reweighting and all subsequent reweightings.",
     "strategy": "single-choice",
     "options": [
-        "YES",
-        "NO"
+        "Yes, raise to 30%",
+        "No, keep as-is"
     ],
-    "snapshotBlock": "2668859",
-    "endBlock": "3668859"
+    "snapshotBlock": "2743646",
+    "endBlock": "2822066"
 }
