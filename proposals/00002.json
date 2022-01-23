@@ -1,6 +1,6 @@
 {
-    "title": "Remove EBEN/BCH farm",
-    "content": "EBEN/BCH farm will be temporarily deactivated as there are many more DEXes now and upcoming so we will evaluate this situation and decide further. This will apply to next farm reweighting and all subsequent reweightings.",
+    "title": "Remove EBEN/WBCH farm",
+    "content": "EBEN/WBCH farm will be temporarily deactivated as there are many more DEXes now and upcoming so we will evaluate this situation and decide further. This will apply to next farm reweighting and all subsequent reweightings.",
     "strategy": "single-choice",
     "options": [
         "Yes, remove EBEN/BCH farm",
