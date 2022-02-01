@@ -1,0 +1,11 @@
+{
+    "title": "Lower the Number of Farms from 30 to 25",
+    "content": "This would lower the current number of farms receiving a mist allocation from 30 to 25. This will apply to next farm reweighting and all subsequent reweightings.",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, Lower Number of Farms from 30 to 25",
+        "No, keep as-is"
+    ],
+    "snapshotBlock": "2893840",
+    "endBlock": "3010000"
+}
