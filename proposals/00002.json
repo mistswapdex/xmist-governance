@@ -1,0 +1,11 @@
+{
+    "title": "Remove CAO, LAMBO, STO, EVE, MGOT, BCHDAO, DOGE, META, MoonMoonMoonMoon farm",
+    "content": "Remove CAO, LAMBO, STO, EVE, MGOT, BCHDAO, DOGE, META, MoonMoonMoonMoon farm. This will apply to next farm reweighting and all subsequent reweightings.",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, remove CAO, LAMBO, STO, EVE, MGOT, BCHDAO, DOGE, META, MoonMoonMoonMoon farm",
+        "No, keep as-is"
+    ],
+    "snapshotBlock": "2889960",
+    "endBlock": "3000000"
+}
