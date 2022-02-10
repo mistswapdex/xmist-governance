@@ -1,0 +1,11 @@
+{
+    "title": "Create Spam Filter Policy Committee",
+    "content": "Create a committee of 5 people to ensure that spam tokens do not get free MIST\n\nCurrently, spam tokens are removed from farm allocations manually by Kasumi \nIn the spirit of decentralization, it would be an improvement to have this be decided by a committee of \nneutral people. The committee would be a closed group who must reach consensus on what tokens \nmeet the criteria laid out to be eliminated from the farm allocation algorithm. \n\nThe criteria chosen is simple: tokens whom use wash trading on MistSwap for MIST allocation as a primary portion of their income/business model.\n\nThese members would be: \n\n\n* CryptoCurenTay\n* Dinopawnz\n* Hans Wurschd\n* Maemon\n* Vin\n\n\nThe impact of this should increase the amount of MIST being granted to projects which are more likely to succeed. \nWhile not the perfect decentralized solution, we believe that this is currently the best compromise between decentralization and legitimate tokens / projects being removed in bad faith through our voting system as we work towards a more permanent solution in the future.\n",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, create the spam filter policy committee",
+        "No, do not create it"
+    ],
+    "snapshotBlock": "3027671",
+    "endBlock": "3059039"
+}
