@@ -6,6 +6,6 @@
         "Yes, remove POTA/BCH farm",
         "No, keep as-is"
     ],
-    "snapshotBlock": "2746535",
-    "endBlock": "2824435"
+    "snapshotBlock": "4300000",
+    "endBlock": "4400000"
 }
