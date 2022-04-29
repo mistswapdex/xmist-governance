@@ -1,0 +1,11 @@
+{
+    "title": "Remove GAME/BCH farm",
+    "content": "GAME/BCH farm will be removed for wash trades and no use cases.",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, remove GAME/BCH farm",
+        "No, keep as-is"
+    ],
+    "snapshotBlock": "4300000",
+    "endBlock": "4400000"
+}
