@@ -1,9 +1,9 @@
 {
-    "title": "Remove PDA/BCH farm",
-    "content": "PDA/BCH farm will be removed for wash trades.",
+    "title": "Remove HAM/BCH farm",
+    "content": "HAM/BCH farm will be removed for wash trades and no use case.",
     "strategy": "single-choice",
     "options": [
-        "Yes, remove PDA/BCH farm",
+        "Yes, remove HAM/BCH farm",
         "No, keep as-is"
     ],
     "snapshotBlock": "4300000",
