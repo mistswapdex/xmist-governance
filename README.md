@@ -4,7 +4,9 @@ This NPM module and GitHub repo contains the proposals and snapshots needed for 
 
 ## Adding a proposal
 
-To request that we add a token to the list:
+To request that we add a proposal:
+  + Please read [How to create a proposal](https://docs.mistswap.fi/governance/vote/#how-to-create-a-proposal) in documentation
+  + Open thread in [#governance channel](https://discord.gg/mistswapdex)
   + Open PR adding your proposal to the list (git clone, yarn install)
 
 ### Disclaimer
