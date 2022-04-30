@@ -1,9 +1,9 @@
 {
-    "title": "Remove PDA/BCH farm",
-    "content": "PDA/BCH farm will be removed for wash trades.",
+    "title": "Remove EBEN/BCH farm",
+    "content": "EBEN/BCH farm will be removed for wash trades.",
     "strategy": "single-choice",
     "options": [
-        "Yes, remove PDA/BCH farm",
+        "Yes, remove EBEN/BCH farm",
         "No, keep as-is"
     ],
     "snapshotBlock": "4300000",
