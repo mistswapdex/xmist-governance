@@ -1,0 +1,11 @@
+{
+    "title": "Remove POTA/BCH farm",
+    "content": "POTA/BCH farm will be temporarily deactivated for excessive wash trades.",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, remove POTA/BCH farm",
+        "No, keep as-is"
+    ],
+    "snapshotBlock": "4355038",
+    "endBlock": "4402090"
+}
