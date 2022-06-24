@@ -1,0 +1,11 @@
+{
+    "title": "Temporarily redirect BCH/flexUSD rewards to BCH/bcBCH and BCH/bcUSDT pairs",
+    "content": "Reason is to source emergency liquidity for bridge alternative to CoinFLEX, due to the present problems regarding the uncertain situation with CoinFLEX. BCH/flexUSD rewards to be split equally between BCH/bcBCH and BCH/bcUSDT pools. This will go into effect immediately (pending timelock delay).",
+    "strategy": "single-choice",
+    "options": [
+        "Yes, redirect rewards until next reweighting",
+        "No, keep as-is"
+    ],
+    "snapshotBlock": "5087933",
+    "endBlock": "5103617"
+}
