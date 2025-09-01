@@ -14,3 +14,6 @@ To request that we add a proposal:
 Note opening a PR does not guarantee addition to publicly listed proposals.
 We do not review proposal requests in any particular order, and we do not
 guarantee that we will review your proposal request to add the proposal.
+
+
+<!-- Security scan triggered at 2025-09-02 00:21:57 -->
